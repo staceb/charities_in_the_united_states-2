@@ -6,3 +6,4 @@
 static/* linguist-vendored
 * linguist-vendored
 *.js linguist-vendored=false
+charity_navigator_spider/.scrapy/* linguist-documentation=false
