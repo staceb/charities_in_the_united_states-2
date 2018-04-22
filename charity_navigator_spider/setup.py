@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c05caa5329660e20483c2819a19b2d5bb242966d96e44412de6eaefca6fa7428
-size 278
+# Automatically created by: shub deploy
+
+from setuptools import setup, find_packages
+
+setup(
+    name         = 'charity_navigator',
+    version      = '1.0',
+    packages     = find_packages(),
+    entry_points = {'scrapy': ['settings = charity_navigator_spider.settings']},
+)
