@@ -5,4 +5,5 @@
 
 *.ipynb linguist-vendored=false
 *.ipynb linguist-generated=false
+*.ipynb linguist-documentation=false
 charity_navigator_spider/* linguist-detectable=false
