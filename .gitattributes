@@ -6,5 +6,5 @@
 *.ipynb linguist-vendored=false
 *.ipynb linguist-generated=false
 *.ipynb linguist-documentation=false
-*.ipynb linguist-language='Jupyter Notebook'
+*.ipynb linguist-language=Jupyter Notebook
 charity_navigator_spider/* linguist-detectable=false
